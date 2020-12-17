@@ -1,7 +1,7 @@
 # NarzdziaInformatyczne
 
 1. list:
-  * co
+        * co
   * to
   * jest
 1. aaa
