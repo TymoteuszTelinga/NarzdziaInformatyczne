@@ -1,6 +1,7 @@
 # NarzdziaInformatyczne
 
-1. list:* co
+1. list:
+* co
   * to
   * jest
 1. aaa
